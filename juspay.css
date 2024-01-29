@@ -1,0 +1,246 @@
+body{
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+#marq{
+    padding-top: 0px;
+    margin-top: 0px;
+    background-color: #4684ff;
+    height: 40px;
+    display: flex ;
+    align-items: center;
+}
+#navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+    font-weight: 500;
+    height: 100px;
+    
+    
+}
+.words{
+    color: white;
+    text-decoration: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#last{
+    margin-right: 50px;
+}
+#logo{
+    margin-right: 200px;
+    margin-left: 100px;
+}
+
+
+
+section{
+    display: flex;
+    align-items: center;
+    
+   
+    
+}
+.m1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 0px;
+    
+}
+#ind{
+    font-size: 2.625rem;
+    color:  rgb(128, 163, 234);
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+#pp{
+    margin-top: 0px;
+    color: white;
+    font-size: 5rem;
+    font-weight: 700;
+    padding-top: 0px;
+    margin-bottom: 10px;
+    
+
+}
+#para1{
+    margin-top: 0px;
+    padding-top: 0px;
+    font-size: 1.125rem;
+    color: white;
+}
+#sec1{
+    margin-left: 200px;
+}
+#img2{
+    width: 500px;
+    margin-right: 200px;
+    margin-top: 40px;
+}
+#but1{
+    background-color: #05f;
+    text-decoration: none;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    font-size: 1.25rem;
+    font-weight: 600;
+    padding: 14px 20px;
+}
+    
+#sec2{
+    
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+#trst{
+    columns: rgb(8, 36, 73);
+    font-size: 2.125rem;
+    font-family: sans-serif;
+    
+    margin-top: 50px;
+    
+    
+    
+}
+#imgs1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aliceblue;
+    height: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+#imgs2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aliceblue;
+    padding-right: 300px;
+    padding-left: 300px;
+    height: 200px;
+}
+#sec3{
+    background-image: url(bg_circular_dotted_white.png);
+    
+    background-size: 57%;
+    background-repeat: no-repeat;
+    background-color: white;
+    width: 100%;
+    
+    display: grid;
+    background-position: 50%;
+}
+#bulk{
+    font-family: sans-serif;
+    font-size: 4rem;
+    color: rgb(8, 36, 73);
+    letter-spacing: -0.03rem;
+    margin: -0.2em 0px 0px;
+    padding-left: 150px;
+    margin-top: 100px;
+}
+#imgs3{
+    display: flex;
+    
+    justify-content: space-around;
+    margin-bottom: 0px;
+    margin-top: 150px;
+    padding-bottom: 0xp;
+    margin-right: 150PX;
+    margin-left: 150PX;
+}
+#desc{
+    display: flex;
+    
+    justify-content: space-around;
+    margin-top: 0px;
+    font-size: 2.3rem;
+    padding-top: 0px;
+    font-family: sans-serif;
+    color:#234EA4 ;
+    font-weight: 700;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    align-items: end;
+
+}
+#paras{
+    display: flex;
+    justify-content: space-around;
+    align-items: normal;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: sans-serif;
+    color:#234EA4 ;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-top: 0px;
+    padding-top: 0px;
+    align-items: start;
+}
+#smalp{
+    display: flex;
+    justify-content: space-around;
+    align-items: normal;
+    margin-left: 80px;
+    margin-right: 150px;
+    font-family: sans-serif;
+    /* color:#234EA4 ; */
+    
+    font-weight: 20;
+    margin-top: 0px;
+    padding-top: 0px;
+    align-items: start;
+}
+
+.row {
+    display: flex;
+}
+
+
+footer{
+		
+    margin-left:150px;
+    margin-right:150px
+}
+
+
+.c1 {
+flex: 20%;
+box-sizing: border-box; 
+}
+
+
+.c2 {
+flex: 20%;
+
+box-sizing: border-box; 
+}
+
+.c3 {
+flex: 20%;
+
+box-sizing: border-box; 
+}
+.c4 {
+flex: 20%;
+
+box-sizing: border-box; 
+}
+
+
+.c5 {
+flex: 20%;
+
+box-sizing: border-box; 
+}
+
